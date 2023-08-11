@@ -1,0 +1,35 @@
+{
+  "name": "nasa-grammar",
+  "version": "1.0.0",
+  "description": "Dictionary of common nasa words for cspell.",
+  "main": "index.js",
+  "exports": {
+    ".": "./cspell-ext.json",
+    "./cspell": "./cspell-ext.json",
+    "./cspell-ext.json": "./cspell-ext.json"
+  },
+  "scripts": {
+    "test": "echo 🥰"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evenstensberg/nasa-grammar.git"
+  },
+  "keywords": [
+    "cspell",
+    "nasa",
+    "NASA",
+    "dictionary",
+    "spelling"
+  ],
+  "author": "Even Stensberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evenstensberg/nasa-grammar/issues"
+  },
+  "homepage": "https://github.com/evenstensberg/nasa-grammar#README",
+  "files": [
+    "dict/nasa.txt",
+    "cspell-ext.json"
+  ]
+}

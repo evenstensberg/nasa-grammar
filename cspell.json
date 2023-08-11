@@ -1,0 +1,6 @@
+{
+  "files": ["**/*.{md,txt}"],
+  "dictionaries": ["nasa"],
+  "import": ["./cspell-ext.json"],
+  "ignoreWords": []
+}

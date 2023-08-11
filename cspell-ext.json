@@ -1,0 +1,13 @@
+{
+  "id": "nasa",
+  "name": "NASA",
+  "description": "Dictionary of NASA words",
+  "readonly": true,
+  "dictionaryDefinitions": [
+    {
+      "name": "nasa",
+      "path": "./dict/nasa.txt",
+      "description": "Dictionary of Common Javascript Packages."
+    }
+  ]
+}

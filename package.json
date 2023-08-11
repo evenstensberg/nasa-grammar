@@ -1,6 +1,6 @@
 {
   "name": "nasa-grammar",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Dictionary of common nasa words for cspell.",
   "main": "index.js",
   "exports": {
@@ -9,7 +9,7 @@
     "./cspell-ext.json": "./cspell-ext.json"
   },
   "scripts": {
-    "test": "echo 🥰"
+    "test": "echo no tests to run"
   },
   "repository": {
     "type": "git",

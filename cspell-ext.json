@@ -7,7 +7,7 @@
     {
       "name": "nasa",
       "path": "./dict/nasa.txt",
-      "description": "Dictionary of Common Javascript Packages."
+      "description": "Dictionary of NASA words."
     }
   ]
 }

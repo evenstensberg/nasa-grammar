@@ -473,3 +473,6 @@ unthrottled
 Codecov
 dont
 mediump
+sinonjs
+generatedata
+grandsearch
